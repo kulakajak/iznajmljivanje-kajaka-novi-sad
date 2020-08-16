@@ -16,3 +16,8 @@ image.rb watermark iznajmljivanje-kajaka-novi-sad.trk.in.rs assets/posts/*.jpg
 
 # Deploy
 
+Site is using github pages so to deploy you just need to
+
+```
+git push
+```
