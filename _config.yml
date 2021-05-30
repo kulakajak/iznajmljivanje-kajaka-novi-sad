@@ -18,10 +18,10 @@ author: >-
   Ovu uslugu vam pruža:<br>
   <b>Trk inovacije doo</b> Novi Sad<br>
   Sime Milutinovića Sarajlije 40<br>
-  Telefon <a href='tel:0637298539'>063 7298539</a>
+  # Telefon <a href='tel:0637298539'>063 7298539</a>
 description: >- # this means to ignore newlines until "baseurl:"
-  Čist vazduh, voda i sunce nisu nikad tako dostupni kao kad sednete u kajak i
-  provozate se po Dunavu, nekom jezeru ili moru. Iskoristite snagu svojih mišića
+  Čist vazduh, voda i sunce nigde nisu tako dostupni kao kad sednete u kajak i
+  proveslate po Dunavu, nekom jezeru ili moru. Iskoristite snagu svojih mišića
   da očistite svoj um.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://iznajmljivanje-kajaka-novi-sad.trk.in.rs" # the base hostname & protocol for your site, e.g. http://example.com
