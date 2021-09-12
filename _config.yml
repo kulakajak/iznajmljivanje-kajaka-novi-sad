@@ -15,9 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Iznajmljivanje Kajaka Novi Sad
 author: >-
-  Ovu uslugu vam pruža:<br>
-  <b>Trk inovacije doo</b> Novi Sad<br>
-  Sime Milutinovića Sarajlije 40<br>
+  Sime Sarajlije 40, Novi Sad<br>
   # Telefon <a href='tel:0637298539'>063 7298539</a>
 description: >- # this means to ignore newlines until "baseurl:"
   Čist vazduh, voda i sunce nigde nisu tako dostupni kao kad sednete u kajak i
